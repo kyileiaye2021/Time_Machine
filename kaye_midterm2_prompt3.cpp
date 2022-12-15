@@ -1,7 +1,4 @@
-//Kyi Lei Aye
-//CS002_77215:Midterm2_Prompt_3
-//Going_Forward_With_Time_Machine
-//Instructor:Hilario_Balajadia
+//Going_Forward_Up_To_24hrs_With_Time_Machine
 //Last_Edited_Date:11/1/2022
 
 #include <iostream>
